@@ -4,6 +4,17 @@
 
 A simple calculator. Using auto layout, stack views and setting constraints, create the following UI. 
 
+## Setup:
+
+1. Clone project
+
+2. Install CocoaPod files
+
+```
+$ pod install
+```
+3. Run app
+
 ## Technology implemented:
 * UI Storyboard
 * Computed Properties
